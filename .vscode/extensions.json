@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "stylelint.vscode-stylelint",
+      "dsznajder.es7-react-js-snippets",
+      "rvest.vs-code-prettier-eslint",
+      "amatiasq.sort-imports"
+    ]
+  }
