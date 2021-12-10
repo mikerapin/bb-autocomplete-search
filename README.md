@@ -1,1 +1,1 @@
-# Some explanations
+A simple package for testing autocomplete
